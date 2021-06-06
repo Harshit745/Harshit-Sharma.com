@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Harshit Sharma |Home</title>
+</head>
+<body>
+    <div class="header">
+    <h1>HARSHIT SHARMA</h1>
+    <nav>
+        <a href="Main.html">Home</a>
+        <a href="Main.html">scource codes</a>
+        <a href="Main.html">videos</a>
+        <a href="Main.html">Login/Signup</a>
+    </nav>
+</div>
+     <main>
+         <section>
+             <h2>videos</h2>
+             link the iframe code from YouTube
+         </section>
+         <section>
+             <h2>Scource Codes</h2>
+             <h1>FOR NOW I AM LINKING THE EARLER VIDEO HERE AND THE SCOURCE CODES WILL BE AVAILABLE SOON!</h1>
+         </section>
+         <p>Harshit-@HARSHIT</p>
+     </main>
+</body>
+</html>
